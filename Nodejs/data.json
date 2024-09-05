@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "1234"
+    },
+    {
+      "name": "Rutika",
+      "email": "rutika@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Sakshi",
+      "email": "sakshi@gmail.com",
+      "password": "567890"
+    },
+    {
+      "name": "Krupa",
+      "email": "krupadesai1622@gmail.com",
+      "password": "123456"
+    },
+    {
+      "name": "Tapan ",
+      "email": "tapan@gmail.com",
+      "password": "1614"
+    },
+    {
+      "name": "Tapan",
+      "email": "tapan@gmail.com",
+      "password": "1614"
+    }
+  ]
+}
