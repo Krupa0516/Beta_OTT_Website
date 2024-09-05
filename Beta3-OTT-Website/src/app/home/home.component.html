@@ -1,0 +1,98 @@
+<div class="navbar navbar-expand-lg fixed-top">
+    <ul class="left1">
+      <li><a id="logo">Logo</a></li>
+      <ul class="middle">
+        <li class="nav-link active" aria-current="page" routerLink="/home"><a>Home</a></li>
+        <li><a>Series</a></li>
+        <li><a>TV-Show</a></li>
+      </ul>
+      <li class="right"><img src="assets/n.jpg" alt=""></li>
+    </ul>
+  </div>
+
+  <div class="sidenav">
+    <h6 style="color: grey; padding-left: 75px;">Menu</h6><br>
+    <a href="#" routerLink="/home" routerLinkActive="active">🏛️ Home</a>
+    <a href="#">🕕 Discovery</a>
+    <a href="#">🌐 Community</a>
+    <a href="#">󠁡󠁡󠁛🔍 Search</a>
+    <hr>
+    <a href="#">⚙️ Setting</a>
+    <a href="#">☁️ Help</a>
+    <a href="#" routerLink="">✖ Exit</a>
+  </div>
+  <div class="grid-container">
+<div class="left grid-child">
+  <div class="home-carousel-container">
+    <h5 class="text-white">Trending Movies 🔥</h5>
+  <div class="carousel" data-bs-ride="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item" *ngFor="let t of trendingMovieResult; let i=index" [ngClass]="{ 'active': i === 0 }" data-bs-interval="2000">
+        <img [src]="t.Cover" class="d-block w-100" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h2 class="carousel-title">{{ t.title }}</h2>
+          <p class="carousel-overview">{{ t.review }}</p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target=".carousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target=".carousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
+
+<div class="middle1 grid-child">
+<div class="contain mb-5 p-4">
+  <!-- Top-Rated movies  -->
+  <div class="row top-rated-container">
+   <h5>Top Rated ⭐</h5>
+    <div class="rowposter">
+      <ng-container *ngFor="let top of topRatedResult">
+        <img [src]="top.Cover" class="rowimg largeposter" alt="...">
+      </ng-container>
+    </div>
+  </div>
+  <!-- continue watching movies -->
+<div class="row mt-4 continue-watching-container">
+  <h5 class="text-white">Continue Watching</h5>
+  <div class="rowposter mt-3 p-2">
+    <ng-container *ngFor="let c of continueWatchingMovies">
+      <img [src]="c.Cover" class="row1 continue" alt="...">
+    </ng-container>
+  </div>
+</div>
+<!--Comedy Movies-->
+<div class="row top-rated-container">
+  <h5>Comedy Movies 😂</h5>
+   <div class="rowposter">
+     <ng-container *ngFor="let com of comedymovieResult">
+       <img [src]="com.Cover" class="rowimg largeposter" alt="...">
+     </ng-container>
+   </div>
+ </div>
+</div>
+
+</div>
+</div>
+<!--Upcoming movies-->
+  <div class="upright grid-child upcoming upcoming-movies-container">
+    <h5 class="up1">Upcoming Movies 🍿</h5>
+    <div class="upcoming-movies-scroll">
+      <ng-container *ngFor="let u of upcomingMovieResult">
+        <div class="movie-item">
+          <img [src]="u.Cover" class="rowimg upposter" alt="...">
+          <div class="movie-details">
+            <h6 class="movie-title">{{ u.title }}</h6>
+            <p class="movie-review">{{ u.review }}</p>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+
+</div>

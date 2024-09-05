@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "title": "LOVE AGAIN (2023)",
+        "Cover": "https://tse2.mm.bing.net/th?id=OIP.V9N9W1F1RBJcuLYnu6FVDQHaEK&pid=Api&P=0&h=180",
+        "review": [
+            "Critics Consensus: Love Again? After watching this treacly romance, you're likely to come away thinking once was more than enough."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Encanto (2021)",
+        "Cover": "https://www.universalmovies.it/wp-content/uploads/2021/07/encanto-film-disney-poster.jpg",
+        "review": [
+            "A Colombian teenage girl has to face the frustration of being the only member of her family without magical powers."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Drishyam 2",
+        "Cover": "https://i.ytimg.com/vi/IaDr83v390s/maxresdefault.jpg",
+        "review": [
+            "A gripping tale of an investigation and a family which is threatened by it. Will Vijay Salgaonkar be able to protect his family this time?"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Brahmastra Part One: Shiva",
+        "Cover": "https://i.ytimg.com/vi/ZgDv60ucAy8/maxresdefault.jpg",
+        "review": [
+            "This is the story of Shiva who sets out in search of love and self-discovery. During his journey, he has to face many evil forces that threaten our existence."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Gangubai Kathiawadi ",
+        "Cover": "https://news.otakukart.com/wp-content/uploads/2021/02/Gangubai-Kathiawadi-Official-Poster.jpg",
+        "review": []
+    },
+    {
+        "id": 6,
+        "title": "Rocketry: The Nambi Effect",
+        "Cover": "https://v3img.voot.com/v3Storage/assets/rocketry%20-%2016x9-1663222179767.jpg",
+        "review": []
+    },
+    {
+        "id": 7,
+        "title": "Adhipurush",
+        "Cover": "https://i.ytimg.com/vi/vcWrj_7Mu1E/maxresdefault.jpg",
+        "review": [
+            "Adipurush is based on 'The Ramayana' by sage Valmiki, which is a Sanskrit epic from ancient India and one of the two important epics of Hinduism, known as the Itihasas (history), the other being the Mahabharata compiled by Ved Vyasa. "
+        ]
+    },
+    {
+        "id": 8,
+        "title": " Sita Ramam",
+        "Cover": "https://www.nowrunning.com/content/movie/2022/oh-si-26432/bg8.jpg",
+        "review": [
+            "An orphan soldier, Lieutenant Ram's life changes, after he gets a letter from a girl named Sita. He meets her and love blossoms between them. When he comes back to his camp in Kashmir,After he gets caught in jail, he sends a letter to Sita which won't reach her."
+        ]
+    },
+    {
+        "id": 9,
+        "title": "DUNGEONS & DRAGONS: HONOR AMONG THIEVES",
+        "Cover": "https://www.vitalthrills.com/wp-content/uploads/2022/07/dungeons-dragons.jpg",
+        "review": [
+            "An infectiously good-spirited comedy with a solid emotional core, Dungeons & Dragons: Honor Among Thieves offers fun fantasy and adventure even if you don't know your HP from your OP."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "The Conjuring",
+        "Cover": "https://www.noktahhitam.com/wp-content/uploads/2013/08/the-conjuring-movie-poster-image.jpg",
+        "review": [
+            "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Bajrangi Bhaijaan",
+        "Cover": "https://secure-media.hotstar.com/r1/thumbs/ANDROID/77/1000071777/ANDROID-1000071777-hm_tab_xxhdpi.jpg",
+        "review": [
+            "An Indian man with a magnanimous heart takes a young mute Pakistani girl back to her homeland to reunite her with her family."
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Shreshaah",
+        "Cover": "https://cdn.gulte.com/wp-content/uploads/2021/08/Sher.jpg",
+        "review": [
+            "Shershaah is the story of PVC awardee Indian soldier Capt. Vikram Batra, whose bravery and unflinching courage in chasing the Pakistani soldiers out of Indian territory contributed immensely in India finally winning the Kargil War in 1999."
+        ]
+    }
+]

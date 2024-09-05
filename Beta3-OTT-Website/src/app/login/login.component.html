@@ -1,0 +1,52 @@
+<div class="back">
+
+  <div class="circle yellow"></div>
+  <div class="circle blue"></div>
+  <div class="navbar">
+    <ul>
+      <li><a routerLink="/home">Home</a></li>
+      <li><a>About</a></li>
+      <li><a>Blog</a></li>
+      <li><a>Pages</a></li>
+      <li><a>Contact</a></li>
+      <ul class="right">
+        <li><a>English</a></li>
+        <li><a>Sign In</a></li>
+        <li><a href="">Register</a></li>
+      </ul>
+    </ul>
+  </div>
+
+  <div class="login-form">
+    <form (ngSubmit)="login(name.value, password.value)">
+      <input type="text" placeholder="Name" required #name>
+      <input type="password" placeholder="Password" required #password><br>
+      <button type="submit">Sign In</button>
+      <h6>
+        <link rel="stylesheet" href="">Recover Password?
+      </h6>
+      <div class="continue-with">
+        <p>Or continue with</p>
+      </div>
+      <div class="social-logos">
+        <a href="#" class="google-logo"><img src="assets/g.jpeg" alt=""></a>
+        <a href="#" class="facebook-logo"><img src="assets/f.jpeg" alt=""></a>
+        <a href="#" class="facebook-logo"><img src="assets/a.jpeg" alt=""></a>
+      </div>
+    </form>
+  </div>
+
+
+  <div class="content">
+    <div class="text-container">
+      <h1>Sign In to <br>Recharge Direct</h1>
+      <br>
+      <h5>if you don't have an account <br>you can <span>Register here!</span></h5>
+    </div>
+    <div class="image-container">
+      <img src="assets/fall.png" alt="" class="img">
+    </div>
+
+
+
+  </div>

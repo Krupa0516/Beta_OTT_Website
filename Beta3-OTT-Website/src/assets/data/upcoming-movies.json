@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "The Kerala Story",
+        "Cover": "https://tse1.mm.bing.net/th?id=OIF.ko78dWO2Bf9nsafi3bgQEw&pid=Api&P=0&h=180",
+        "review": [
+            "A new film that claims to tell the story of Hindu and Christian women who were lured into joining the Islamic State (IS) group has stirred a huge controversy in India."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Pathaan",
+        "Cover": "https://tse4.mm.bing.net/th?id=OIP.SBD9Be2mKMWCkns4EzKJqAHaEK&pid=Api&P=0&h=180",
+        "review": [
+            "'Pathaan' has all the ingredients of a masala potboiler — slowmo entries, iconic battle of good versus bad and most importantly a sexy-smouldering Shah Rukh Khan, who can fight the good fight on and off the screen."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Never Have I ever",
+        "Cover": "https://tse2.mm.bing.net/th?id=OIP.r-WB-12Xs3cdFC5U1nt87QHaHa&pid=Api&P=0&h=180",
+        "review": [
+            "Never Have I Ever, Mindy Kaling’s beloved coming-of-age series, will take a bow with its fourth and final season."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Megan",
+        "Cover": "https://media-cache.cinematerial.com/p/500x/pjsfnux0/m3gan-danish-movie-poster.jpg?v=1683032094",
+        "review": [
+            "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "The little mermaid",
+        "Cover": "https://tse4.mm.bing.net/th?id=OIP.i8zKfcN66GdTojO8nha6DgHaEK&pid=Api&P=0&h=180",
+        "review": [
+            "A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love."
+        ]
+    }
+]

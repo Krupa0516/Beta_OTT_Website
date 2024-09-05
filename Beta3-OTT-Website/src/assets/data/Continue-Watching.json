@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Angrezi Medium",
+        "Cover": "https://tse3.mm.bing.net/th?id=OIP.Ke3a-pMXgKDSorlaxHfqJAHaEK&pid=Api&P=0&h=180",
+        "review": []
+    },
+    {
+        "id": 2,
+        "title": "Raazi",
+        "Cover": "https://4.bp.blogspot.com/-djfeWaZ7JtE/XIvia8hsmmI/AAAAAAAAAoE/-CiijPOkXE0xEiGhrsjG2D_L0-7mHf8cQCLcBGAs/s1600/Cover.png",
+        "review": []
+    },
+    {
+        "id": 3,
+        "title": "Jumanji",
+        "Cover": "https://www.sonypictures.be/sites/belgium2/files/2021-01/Jumanji-keyArt_0.jpg",
+        "review": []
+    }
+]
